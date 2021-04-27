@@ -110,7 +110,14 @@ header {
     line-height: 40px;
     margin: 0;
     padding: 5px 0 5px 0;
+}
+
+.odd-item {
     color: #77D8D8;
+}
+
+.even-item {
+    color: #FFB6B6;
 }
 
 @keyframes change {
